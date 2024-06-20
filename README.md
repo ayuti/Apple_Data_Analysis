@@ -1,10 +1,10 @@
 # Apple_Data_Analysis
 
-# Tools and Technologies
-Pyspark
-Databricks
+**Tools and Technologies**
+<br>Pyspark
+<br>Databricks
 
-# ETL(Extract,Transform and Load)
+**ETL(Extract,Transform and Load)**
 -Data has been extracted from different sources like CSV,Parquet,Data lake using Pyspark
 -Used Factory Method Design Pattern for creating reader objects effectively and promoting loose coupling
 -Did the business logic analysis using pyspark functions
